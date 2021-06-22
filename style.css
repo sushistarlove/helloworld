@@ -1,0 +1,28 @@
+* {
+    background-color: lightgray;
+}
+
+#startbutton {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    color: lavenderblush;
+    font-size: 25px;
+    background-color: rosybrown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid lavenderblush;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+#text {
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    color: red;
+    text-shadow: 3px 3px black;
+    font-family: cursive; 
+}
